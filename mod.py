@@ -86,7 +86,7 @@ def main():
             print(bar)
 
         ss+=1
-        print("\033[1;0;40m\n",str(ss), "iilaga eka enakan that para 100k inna",end="")
+        print("\033[1;0;40m\n",str(ss), "iilaga eka enakan thathpara 100k inna",end="")
         for i in range(180):
 
             pr = i/180*100
